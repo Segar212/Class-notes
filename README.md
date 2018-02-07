@@ -62,3 +62,31 @@ HTML
  stay at a certain concept and don't change
 
  `test driven development` - write a test, it fails, you get it to pass, refactor you code
+
+`git commands cheat sheet` https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+
+`git hub to atom`-
+make repo
+
+make folder in terminal("mkdir ...")
+
+open folder(...)
+
+copy(echo "# ..." >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/Segar212/firstLiveServer.git
+
+git push -u origin master)
+
+in folder install(git install node)
+
+install npm .json
+
+make public folder (index.html, index.js, style.css)
