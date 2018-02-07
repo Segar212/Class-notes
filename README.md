@@ -58,7 +58,7 @@ HTML
 
 `growth mind set`
 
-
 `fixed mind set`
  stay at a certain concept and don't change
+
  `test driven development` - write a test, it fails, you get it to pass, refactor you code
