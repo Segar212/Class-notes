@@ -90,3 +90,25 @@ in folder install(git install node)
 install npm .json
 
 make public folder (index.html, index.js, style.css)
+
+
+
+HTMML to java
+
+$() jquery library
+$(*target html*)
+
+`Data bases`- SQL(structured query language)
+
+no SQL(mongoDB)
+
+`JSON`- java script object notation
+
+EX: var obj = {
+  {
+    "key": "value",
+  EX https://www.freecodecamp.org/challenges/manipulating-complex-objects
+
+  JSON starts with { and then ends with }(no ;)
+
+  
