@@ -13,6 +13,7 @@ Commands
 
 `cd ..` return 1 level up
 
+
 `link to commands` - https://github.com/0nn0/terminal-mac-cheatsheet
 
 
@@ -37,6 +38,9 @@ terminal
 `echo`
 `history` - look at last 500 Commands
 `apm` atom package merger
+npm install nodemod --save-dev
+npm install express --save-dev
+
 
 
 GIT
@@ -91,6 +95,7 @@ install npm .json
 
 make public folder (index.html, index.js, style.css)
 
+npm install mocha chai --save-dev
 
 
 HTMML to java
@@ -111,4 +116,33 @@ EX: var obj = {
 
   JSON starts with { and then ends with }(no ;)
 
-  
+`eslint rules`
+
+google eslint
+
+npm install --save-dev eslint eslint-plugin-import (do for every project)
+
+apm install linter
+apm install linter-eslint
+
+
+`Agile` things we practiced (http://modernagile.org/)
+sticky notes
+Mobing
+Manifesto
+values individuals and interactions over process and tools
+modern agile(in a circle, clock wise)
+Makes people awesome: Value :Make safety a prerequisite: Learning and experimenting(play)
+
+`API`- Application Program Interface
+
+Soap vs Rest
+Rest = Representational State Transfer
+Soap = Simple Object Access Protocol
+
+
+GET = Read
+POST = Create
+PUT = Update
+DELETE = Delete
+scotchio
